@@ -1,0 +1,4 @@
+magstyle
+========
+
+zite like style
